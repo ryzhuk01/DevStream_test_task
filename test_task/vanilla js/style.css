@@ -1,0 +1,21 @@
+.terms,
+.gallery {
+    display: none;
+}
+
+.canvas-container {
+    margin: 10px;
+    display: inline-block;
+    position: relative;
+}
+
+.save-btn {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
